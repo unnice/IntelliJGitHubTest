@@ -5,6 +5,7 @@ public class ClassBranch01 {
     public static void main(String[] args) {
 
         firstTask();
+        System.out.println("fixed");
 
     }
 
